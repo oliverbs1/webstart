@@ -1,1 +1,10 @@
 hahaha
+
+
+
+fonction ramy
+if (je suis en cours) {
+	console.log (je dors);
+	 } else {
+	console.log (je vais bien);
+}
